@@ -80,22 +80,3 @@ class MyApp extends StatelessWidget {
     );
   }
 }
-
-
-
-// Row(
-//                 children: [
-//                   Icon(
-//                     Icons.phone,
-//                     color: Colors.teal.shade900,
-//                   ),
-//                   SizedBox(width: 15.0),
-//                   Text(
-//                     '+91 8980005032',
-//                     style: TextStyle(
-//                         fontWeight: FontWeight.bold,
-//                         color: Colors.teal.shade900,
-//                         fontSize: 20.0),
-//                   )
-//                 ],
-//               )
